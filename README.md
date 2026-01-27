@@ -1,4 +1,5 @@
 #### 开源
+- [clawdbot-feishu](https://github.com/nil957/clawdbot-feishu)
 - [awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)
 - [moltbot](https://github.com/moltbot/moltbot)
 
