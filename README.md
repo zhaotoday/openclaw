@@ -1,4 +1,5 @@
 #### 开源
+- [openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub)
 - [OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat)
 - [moltbot-china](https://github.com/BytePioneer-AI/moltbot-china)
 - [openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)
