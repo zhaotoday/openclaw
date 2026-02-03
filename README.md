@@ -3,7 +3,7 @@
 - [openclaw-skills](https://github.com/BankrBot/openclaw-skills)
 - [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller)
 - [clawdbot-wechat-plugin](https://github.com/NannaOlympicBroadcast/clawdbot-wechat-plugin)
-- [clawdbot-feishu](https://github.com/nil957/clawdbot-feishu)
+- [feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw)
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 
 #### 网站
