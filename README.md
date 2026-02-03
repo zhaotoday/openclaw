@@ -1,5 +1,4 @@
 #### 开源
-- [OpenClaw 远程浏览器使用指南：从入门到踩坑](https://juejin.cn/post/7600986495927386153)
 - [openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub)
 - [OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat)
 - [moltbot-china](https://github.com/BytePioneer-AI/moltbot-china)
@@ -18,4 +17,5 @@
 - [clawdhub](https://clawdhub.com/)
 
 #### 文章
+- [OpenClaw 远程浏览器使用指南：从入门到踩坑](https://juejin.cn/post/7600986495927386153)
 - [玩转Lighthouse｜Moltbot（Clawdbot）接入企业微信完全指南](https://cloud.tencent.com/developer/article/2625147)
