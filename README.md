@@ -4,6 +4,7 @@
 - [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller)
 - [clawdbot-wechat-plugin](https://github.com/NannaOlympicBroadcast/clawdbot-wechat-plugin)
 - [feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw)
+- [openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu)
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
 
 #### 网站
