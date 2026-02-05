@@ -1,4 +1,5 @@
 #### 开源
+- [OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat)
 - [OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)
 - [openclaw-mini](https://github.com/voocel/openclaw-mini)
 - [nanobot](https://github.com/HKUDS/nanobot)
