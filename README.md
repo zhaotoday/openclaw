@@ -1,4 +1,5 @@
 #### 开源
+- [OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)
 - [openclaw-mini](https://github.com/voocel/openclaw-mini)
 - [nanobot](https://github.com/HKUDS/nanobot)
 - [openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub)
