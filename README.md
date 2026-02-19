@@ -1,4 +1,5 @@
 #### 开源
+- [ClawX](https://github.com/webmcpnet/awesome-webmcp)
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 - [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh)
 - [OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat)
