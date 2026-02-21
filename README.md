@@ -1,4 +1,6 @@
 #### 开源
+- [ClawCloud-Run](https://github.com/oyz8/ClawCloud-Run)
+- [ClawCloud-Run](https://github.com/frankiejun/ClawCloud-Run)
 - [ClawWork](https://github.com/HKUDS/ClawWork)
 - [ClawX](https://github.com/webmcpnet/awesome-webmcp)
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
