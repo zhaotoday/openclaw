@@ -1,4 +1,6 @@
 #### 开源
+- [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+- [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh)
 - [ClawPhone](https://github.com/marshallrichards/ClawPhone)
 - [VisionClaw](https://github.com/sseanliu/VisionClaw)
 - [ClawCloud-Run](https://github.com/oyz8/ClawCloud-Run)
