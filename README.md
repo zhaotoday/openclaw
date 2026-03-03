@@ -32,6 +32,7 @@
 - [clawdhub](https://clawdhub.com/)
 
 #### 文章
+- [用 OpenClaw 做视频：播放量从几十涨到 9000，成本一毛钱](https://juejin.cn/post/7606173847994023990)
 - [🚀OpenClaw高级进阶技巧分享！模型精选策略+记忆系统优化经验+深度搜索集成+Gateway崩溃自动修复！Claude Code自动读日志修Bug重启验证](https://juejin.cn/post/7608512654684831753)
 - [OpenClaw 远程浏览器使用指南：从入门到踩坑](https://juejin.cn/post/7600986495927386153)
 - [玩转Lighthouse｜Moltbot（Clawdbot）接入企业微信完全指南](https://cloud.tencent.com/developer/article/2625147)
