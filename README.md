@@ -1,4 +1,5 @@
 #### 开源
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [openclaw-rpa](https://github.com/laziobird/openclaw-rpa)
 - [hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)
