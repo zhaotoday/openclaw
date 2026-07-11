@@ -1,4 +1,5 @@
 #### 开源
+- [become-ceo](https://github.com/wanikua/become-ceo)
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [openclaw-rpa](https://github.com/laziobird/openclaw-rpa)
 - [hermes-agent](https://github.com/NousResearch/hermes-agent)
