@@ -1,4 +1,5 @@
 #### 开源
+- [LobsterAI](https://github.com/netease-youdao/LobsterAI)
 - [become-ceo](https://github.com/wanikua/become-ceo)
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - [openclaw-rpa](https://github.com/laziobird/openclaw-rpa)
